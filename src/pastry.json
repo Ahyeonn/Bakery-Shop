@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "name": "Chocolate Croissant",
+    "picture": "images/chocolate-croissant.jpeg",
+    "description": "Rich, flaky roll chocolate croissant",
+    "date": "03/02/2023"
+  },
+  {
+    "id": 1,
+    "name": "Strawberry Pie",
+    "picture": "images/strawberry-pie.jpeg",
+    "description": "Pastry-dough crust made with strawberry",
+    "date": "02/28/2023"
+  },
+  {
+    "id": 2,
+    "name": "Apple Danish",
+    "picture": "images/apple-danish.jpeg",
+    "description": "Fluffy & crispy outside, and buttery & flaky inside",
+    "date": "03/01/2023"
+  },
+  {
+    "id": 3,
+    "name": "Panda Macaron",
+    "picture": "images/panda-macaron.jpeg",
+    "description": "Round and bite-sized, delicious macaron",
+    "date": "02/27/2023"
+  },
+  {
+    "id": 4,
+    "name": "Éclair",
+    "picture": "images/eclair.jpeg",
+    "description": "Made with choux dough & filled with custard",
+    "date": "02/24/2023"
+  },
+  {
+    "id": 5,
+    "name": "Apple Strudel",
+    "picture": "images/apple-strudel.jpeg",
+    "description": "Made with filo pastry & a sweet apple filling",
+    "date": "03/01/2023"
+  },
+  {
+    "id": 6,
+    "name": "Cannoli",
+    "picture": "images/cannoli.jpeg",
+    "description": "Creamy, sweet filling made with ricotta cheese",
+    "date": "03/03/2023"
+  },
+  {
+    "id": 7,
+    "name": "Profiterole",
+    "picture": "images/profiterol.jpeg",
+    "description": "Choux pastry balls filled with whipped cream",
+    "date": "02/26/2023"
+  },
+  {
+    "id": 8,
+    "name": "Egg Tart",
+    "picture": "images/egg-tart.jpeg",
+    "description": "Traditionally baked with shortcrust pastry",
+    "date": "03/01/2023"
+  }
+]
