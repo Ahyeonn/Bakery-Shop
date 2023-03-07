@@ -1,0 +1,2 @@
+# Bakery-Shop
+Bakery-Shop is a decentralized application built with the ERC-721 token written with the Solidity programming language. Users can purchase pastry NFTs after connecting their wallet to MetaMask to own their unique pastry NFT. The front-end is built with HTML, CSS, Vanilla JavasScript, and Bootstrap, while the back-end is built with Node.js. This project is built for the 'ACS 3240: Decentralized Apps & Distribution Protocol' class.
